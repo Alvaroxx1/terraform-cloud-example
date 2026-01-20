@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "terraform-org-ajdev "
+    organization = "terraform-org-ajdev"
 
     workspaces {
       name = "terraform-vcs"
